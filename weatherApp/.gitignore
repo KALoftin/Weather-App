@@ -1,8 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# Angular Environments
-environment.development.ts
-src/environments/environment.ts
+# environment variables
 /.env
 
 # Compiled output
