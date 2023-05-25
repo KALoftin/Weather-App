@@ -148,8 +148,12 @@ body {
   text-align: center;
 }
 
-::placeholder {
+input::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: var(--white);
   opacity: 1; /* Firefox */
+}
+
+input:focus::placeholder {
+  color: transparent;
 }

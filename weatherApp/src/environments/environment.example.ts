@@ -8,5 +8,3 @@ export const environment = {
   XRapidAPIKeyName: 'X-RapidAPI-Key',
   XRapidAPIKeyValue: 'YOUR KEY VALUE',
 };
-
-// Testing for ignoring
